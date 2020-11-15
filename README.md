@@ -44,6 +44,6 @@ or
 * kubectl logs <pod-name>
 
 
-##Service of LoadBalancer type has internal as well as external IP address. In minikube, the external IP address should assigned explicitly
+## Service of LoadBalancer type has internal as well as external IP address. In minikube, the external IP address should assigned explicitly
 To assign IP address to the external service, run
 * minikube service <service-name>
